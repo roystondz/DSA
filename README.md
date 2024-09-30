@@ -10,3 +10,7 @@
 - This algorithm is used to find the majority element
 - we traverse through the loop and at first we assign answer as the first element . Every time we get the same element we f++ or else if we dont f--
 - [code](https://github.com/roystondz/DSA/blob/main/169MajorityElement.cpp)
+
+## Binary Exponentiation
+- Pow(x,n)
+- [code](https://github.com/roystondz/DSA/blob/main/50Pow(x%2Cn).cpp)
