@@ -14,3 +14,6 @@
 ## Binary Exponentiation
 - Pow(x,n)
 - [code](https://github.com/roystondz/DSA/blob/main/50Pow(x%2Cn).cpp)
+
+## Buy and Sell
+- [code](https://github.com/roystondz/DSA/blob/main/121BuyAndSell.cpp)
