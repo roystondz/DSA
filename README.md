@@ -17,3 +17,8 @@
 
 ## Buy and Sell
 - [code](https://github.com/roystondz/DSA/blob/main/121BuyAndSell.cpp)
+
+## Conatiner with most water
+- Brute force approach (TLE)
+- [code](https://github.com/roystondz/DSA/blob/main/11ContainerWater.cpp)
+
