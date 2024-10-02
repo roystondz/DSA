@@ -21,4 +21,6 @@
 ## Conatiner with most water
 - Brute force approach (TLE)
 - [code](https://github.com/roystondz/DSA/blob/main/11ContainerWater.cpp)
+- Optimal approach with two pointer
+- [code](https://github.com/roystondz/DSA/blob/main/11ContainerWater.cpp)
 
