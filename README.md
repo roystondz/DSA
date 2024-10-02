@@ -24,3 +24,11 @@
 - Optimal approach with two pointer (make sure to change the minimum pointer only since it controls the capacity)
 - [code](https://github.com/roystondz/DSA/blob/main/11ContainerWater.cpp)
 
+## Product of Array except self
+- The first and second element in both the loop must be set to 1.
+- find the prefix and suffix separately
+- prefix can be found by multiplying the previous number with the PREVIOUS prefix
+- suffix must be initialised to 1 . multiply the suffix with the next number
+- Multiply both
+- [code](https://github.com/roystondz/DSA/blob/main/238ArrapProductXSelf.cpp)
+
