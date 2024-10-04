@@ -32,3 +32,7 @@
 - Multiply both
 - [code](https://github.com/roystondz/DSA/blob/main/238ArrapProductXSelf.cpp)
 
+## Binary Search
+- Optimised Binary search (computing mid)
+- [code](https://github.com/roystondz/DSA/blob/main/704binarySearch.cpp)
+
