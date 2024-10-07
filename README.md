@@ -36,3 +36,10 @@
 - Optimised Binary search (computing mid)
 - [code](https://github.com/roystondz/DSA/blob/main/704binarySearch.cpp)
 
+## Search in a rotated Array
+- We make use of binary search algo here (log n)
+- First we see if the left half or right half is sorted
+- If the left half is sorted and also the element lies between them correspondingly change end else vice versa
+- If the right half is sorted and also the element lies between them correspondingly change start else vice versa
+- [code](https://github.com/roystondz/DSA/blob/main/33RotatedArray.cpp)
+
