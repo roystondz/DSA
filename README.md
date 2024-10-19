@@ -43,3 +43,9 @@
 - If the right half is sorted and also the element lies between them (left half) correspondingly change start else vice versa
 - [code](https://github.com/roystondz/DSA/blob/main/33RotatedArray.cpp)
 
+## Peak index in a Mountain Array
+- We make use of Binary Search to have a optimised soluotion
+- We compute the mid element and see if its equla to mid ;
+- we see if it lies on incresing or decreasing edge and corresponding update the start and end
+- [code](https://github.com/roystondz/DSA/blob/main/852PeakMountain.cpp)
+
