@@ -67,3 +67,12 @@
 ## Remove all occurences of a substring
 - make use of str.find(),str.erase()
 - [code](https://github.com/roystondz/DSA/blob/main/1910RemoveAllOccurencesOfAString.cpp)
+
+## Permutation in String
+- The first step is to find a frequency table for the string s1
+- We have to create a window of the size that is equal to s1
+- the next thing is to traverse through s2
+- initialize the window index to 0 and a traversing index to i, the loop starts
+- we use a while loop for creating another frequency table with respect to a current window keeping in mind that the window index should not cross window size and the idx should not cross the length of s2
+- Finally we compare both the frequency tables
+- [code](https://github.com/roystondz/DSA/blob/main/567PermutationInString.cpp)
