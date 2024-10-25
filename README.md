@@ -49,3 +49,13 @@
 - we see if it lies on incresing or decreasing edge and corresponding update the start and end
 - [code](https://github.com/roystondz/DSA/blob/main/852PeakMountain.cpp)
 
+## Single Non Duplicate
+- This problem can be solved usding Linear search where youcan decide by checking if the number is not equal to the next or the previous number
+- A better approach to this can be Binary search
+- In this approach first we check the number of elements in given array.
+- In the loop we compute mid and check the condition if element is the first or last element and return respectively.
+- Next we see if the next is of mid is even or odd Then choose either to search left or right.
+- If in left we compare and change
+- same for the right.
+- [code](https://github.com/roystondz/DSA/blob/main/540SingleElement.cpp)
+
