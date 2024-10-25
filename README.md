@@ -63,3 +63,7 @@
 - check if it is alphabet or numeric
 - then compare
 - [code](https://github.com/roystondz/DSA/blob/main/125ValidPalindrome.cpp)
+
+## Remove all occurences of a substring
+- make use of str.find(),str.erase()
+- [code](https://github.com/roystondz/DSA/blob/main/1910RemoveAllOccurencesOfAString.cpp)
