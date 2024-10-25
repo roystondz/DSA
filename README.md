@@ -59,3 +59,7 @@
 - same for the right.
 - [code](https://github.com/roystondz/DSA/blob/main/540SingleElement.cpp)
 
+## Valid Palindrome (without considering special synmbols)
+- check if it is alphabet or numeric
+- then compare
+- [code](https://github.com/roystondz/DSA/blob/main/125ValidPalindrome.cpp)
