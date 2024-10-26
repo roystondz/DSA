@@ -76,3 +76,14 @@
 - we use a while loop for creating another frequency table with respect to a current window keeping in mind that the window index should not cross window size and the idx should not cross the length of s2
 - Finally we compare both the frequency tables
 - [code](https://github.com/roystondz/DSA/blob/main/567PermutationInString.cpp)
+
+## Reverse words in a String
+- Set up a answer string that the function should return.
+- Initially reverse the entire string
+- use a for loop to traverse through the string
+- compute a word keeping in mind .While the index is less than the string and the current character isnt a space
+- Append it to the word String and incremetn i
+- omce the word is obtained 
+- reverse the word again
+- if the length of the word is greater than 0. Append it to the answer
+- [code](https://github.com/roystondz/DSA/blob/main/151ReverseWordsInAString.cpp)
