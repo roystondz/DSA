@@ -85,5 +85,6 @@
 - Append it to the word String and incremetn i
 - omce the word is obtained 
 - reverse the word again
-- if the length of the word is greater than 0. Append it to the answer
+- if the length of the word is greater than 0. Append it to the answer with a space
+- While reteuring return the substr 1.
 - [code](https://github.com/roystondz/DSA/blob/main/151ReverseWordsInAString.cpp)
