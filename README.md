@@ -88,3 +88,6 @@
 - if the length of the word is greater than 0. Append it to the answer with a space
 - While reteuring return the substr 1.
 - [code](https://github.com/roystondz/DSA/blob/main/151ReverseWordsInAString.cpp)
+
+## Painters Problem
+- [code](https://github.com/roystondz/DSA/blob/main/PaintersProblem.cpp)
